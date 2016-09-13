@@ -1,0 +1,12 @@
+X                                                                                                                              X
+X                                                                                                                              X
+X                                                                                                                              X
+X                                                                                                                              X
+X                                        D     C                                                                               X
+X     B                C         C       DDCCDDD                                         XX                 CCDDCD             X
+X     B                DDCCDCDDCDD                                                       XX                                    X
+X                  X                                CCCD               D      D        XXXX                                    X
+X                 XXX                  CDDDCCD                         CDDDCCDC        XXXX      C   D    C      XX            X
+X                XXXXX                                          XXXX                 XXXXXX                      XX            X
+X               XXXXXXX                                         XXXX                 XXXXXX                      XX            X
+CCCCCCCCCCDCCDCDCCCCCCDDDDDDDDDDDDCCCCCCCCCCCDDDDDDDDCCCCCCCCDCDCCCCDCDCDCDCDCDCDCDDDDDDCCCDCDCCDCCDCCDCCDCCCDCCDCDCDCDCCCDCCDCD
