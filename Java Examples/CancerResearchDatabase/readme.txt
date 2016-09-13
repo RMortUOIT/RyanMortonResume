@@ -1,6 +1,6 @@
 Cancer Research Database
 
-This program was created as a school projects in order to showcase various abilities in SQL. The 
+This program was created as a school project in order to showcase various abilities in SQL. The 
 project uses an sqlite database with one million randomly generated "cancer patients" in order 
 to mirror real life statistics. Using the program the user can select which data they want to 
 see, including charts that help visualize statistics such as a pie chart that displays how common
